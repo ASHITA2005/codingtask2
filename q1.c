@@ -10,7 +10,6 @@ int fib(int n){
     
 }
 int main() {
-    // Write C++ code here
     int x,n;
     std::cout << "enter n ";
     std::cin>>n;
